@@ -1,0 +1,3 @@
+Flask
+sqllite  # not implemented yet attach to azure sql 
+sqlalchemy
